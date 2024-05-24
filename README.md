@@ -1,13 +1,13 @@
 Версия OpenJSCAD, которая работает на устройствах под управлением Аврора 4.
-Достаточно скачать и распаковать репозиторий и запустить index.html.
+Достаточно скачать и распаковать репозиторий и запустить phone.html.
 В ближайшее время упакую webview-приложение для Аврора 4.
+
+Из исходной документации:
 
 <h1>OpenJSCAD@Android</h1>
 
 This is just a minimalistic mod of the original <a href="https://github.com/Spiritdude/OpenJSCAD.org">OpenJSCAD</a>
 to give it a try on my android devices. <br/>
-
-<img src="doc/FirefoxAndroid.png">
 
 <h2>Preparations</h2>
 <pre>
@@ -28,7 +28,6 @@ file:///sdcard/OpenJSCAD/phone.html
 DONE.
 </pre>
 Create an icon on the launcher as you like.<br/>
-<img src="doc/Launcher.png">
 
 <br/>
 <h2>Server-sided installation</h2>
@@ -82,6 +81,3 @@ several, but specifically
 </ul>
 
 <br/><br/><br/><br/>
-If you want to provide some feedback or send a comment, have a look at my post:
-<a href="http://technikhobby.blogspot.ch/2013/12/openjscad-goes-mobile.html#comment-form"></a>
-
